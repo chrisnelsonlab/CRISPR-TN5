@@ -54,6 +54,7 @@ Figure 2 - Overview of Nextera enrichment for genome editing analysis
 > See linked .fastq files here. These paired-end reads provide 1000 reads to ensure the algorithm works. The complete data set is linked through the NCBI (see below).
 
 <a href="https://github.com/chrisnelsonlab/CRISPR-TN5/blob/master/exampledata/EX_READ1_truncated.fastq">READ1 fastq</a>
+
 <a href="https://github.com/chrisnelsonlab/CRISPR-TN5/blob/master/exampledata/EX_READ2_truncated.fastq">READ2 fastq</a>
 
 
