@@ -51,7 +51,7 @@ Figure 2 - Overview of Nextera enrichment for genome editing analysis
 > See linked file here
 
 ## Example data set
-> See linked .fastq files here
+> See linked .fastq files here. These paired-end reads provide 1000 reads to ensure the algorithm works. The complete data set is linked through the NCBI (see below).
 
 ## Data to recreate figures from (PAPER) can be found here
 > https://www.ncbi.nlm.nih.gov/sra/?term=SRP157083
