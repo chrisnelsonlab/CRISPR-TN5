@@ -7,10 +7,11 @@ The code is provided for reproducibility of the published report (insert link - 
 ![Figure 1](https://github.com/chrisnelsonlab/CRISPR-TN5/blob/master/images/Nextera_Fig1.png)
 ## Figure 1 - Possible outcomes of multiplexed genome editing
 
-# How the code works
+# How Tn5-based enrichment works
 ![Figure 2](https://github.com/chrisnelsonlab/CRISPR-TN5/blob/master/images/Nextera_Fig2.png)
 ## Figure 2 - Overview of Nextera enrichment for genome editing analysis
 
+# How the code works
 ![Figure 3](https://github.com/chrisnelsonlab/CRISPR-TN5/blob/master/images/Nextera_Fig3.png)
 ## Figure 3 - Outline of how the code works
 
