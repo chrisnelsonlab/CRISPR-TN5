@@ -54,4 +54,4 @@ Figure 2 - Overview of Nextera enrichment for genome editing analysis
 > See linked .fastq files here
 
 ## Data to recreate figures from (PAPER) can be found here
-> SRA ########
+> https://www.ncbi.nlm.nih.gov/sra/?term=SRP157083
